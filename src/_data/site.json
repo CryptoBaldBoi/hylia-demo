@@ -6,7 +6,7 @@
   "authorEmail": "cryptobaldboi@gmail.com",
   "authorHandle": "@TheNFTVENDOR",
   "authorName": "Ogba Chika",
-  "enableThirdPartyComments": false,
+  "enableThirdPartyComments": true,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
   "faviconPath": "/images/nftvendor.png",
   "maxPostsPerPage": 5
