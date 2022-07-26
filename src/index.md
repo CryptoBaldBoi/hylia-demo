@@ -1,12 +1,13 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: NFT VENDOR
+metaDesc: Welcome to the official website of the NFT vendor
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+socialImage: /images/nftvendor.png
 ---
+<!--StartFragment-->
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+The NFT Vendor is a web-3 based NFT project set up to create awareness, educate people, promote NFT, Crypto and Web-3 projects and to expose fake projects in web-3 spaces. The project was inspired by the lack of awareness on NFT and web-3 space. We believe that every artist deserve to be appreciated. There are lots of Great projects out there that are not getting enough attention due to lack of awareness and information, so many people don’t really know of
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+<!--EndFragment-->
