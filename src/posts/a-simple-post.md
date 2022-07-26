@@ -1,6 +1,6 @@
 ---
 title: The NFT VENDOR
-socialImage: /images/nftvendor.png
+socialImage: https://pbs.twimg.com/profile_images/1550569528798679040/YZqpZlHG_400x400.jpg
 date: 2022-07-26T09:12:55.138Z
 tags:
   - NFT-VENDOR
