@@ -1,12 +1,12 @@
 {
-  "showThemeCredit": true,
+  "showThemeCredit": false,
   "name": "NFT VENDOR",
-  "shortDesc": "This is the official website of the NFT vendor.",
+  "shortDesc": "We deliver web3 to your doorstep. ",
   "url": "https://nftvendor.com",
   "authorEmail": "cryptobaldboi@gmail.com",
   "authorHandle": "@TheNFTVENDOR",
   "authorName": "Ogba Chika",
-  "enableThirdPartyComments": false,
+  "enableThirdPartyComments": true,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
   "faviconPath": "/images/nftvendor.png",
   "maxPostsPerPage": 5
