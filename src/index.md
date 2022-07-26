@@ -4,7 +4,7 @@ title: NFT VENDOR
 metaDesc: Welcome to the official website of the NFT vendor
 postsHeading: Latest posts
 archiveButtonText: See all posts
-socialImage: /images/nftvendor.png
+socialImage: https://thenftvendor.netlify.app/
 ---
 <!--StartFragment-->
 
