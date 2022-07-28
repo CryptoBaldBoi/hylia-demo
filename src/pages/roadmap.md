@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: ROADMAP
-permalink: ""
+permalink: /roadmap
 ---
 **PHASE ONE**
 
