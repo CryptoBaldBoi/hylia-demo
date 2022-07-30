@@ -5,7 +5,7 @@ metaTitle: ""
 metaDesc: ""
 postsHeading: Latest posts
 archiveButtonText: See all posts
-socialImage: /images/nftvendor.png
+socialImage: ""
 ---
 # **ROADMAP PHASE I**
 
