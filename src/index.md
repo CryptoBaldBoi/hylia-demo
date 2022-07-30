@@ -1,15 +1,13 @@
 ---
 layout: home
-title: THE NFT VENDOR
+title: ROADMAP
 metaTitle: ""
 metaDesc: ""
 postsHeading: Latest posts
 archiveButtonText: See all posts
-socialImage: https://miro.medium.com/max/700/1*i2QUoHLndwMdxS7Urdq10Q.png
+socialImage: /images/nftvendor.png
 ---
-<!--StartFragment-->
 
-![](https://miro.medium.com/max/700/1*i2QUoHLndwMdxS7Urdq10Q.png)
 
 # **ROADMAP PHASE I**
 
