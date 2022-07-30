@@ -11,4 +11,12 @@ socialImage: https://miro.medium.com/max/700/1*i2QUoHLndwMdxS7Urdq10Q.png
 
 ![](https://miro.medium.com/max/700/1*i2QUoHLndwMdxS7Urdq10Q.png)
 
+# **ROADMAP PHASE I**
+
+*"**200 edition of the NFT VENDOR on a mission to offer community service and to create awareness, educate people, promote NFT, Crypto and web-3 projects, and to expose fake projects in web-3 space".***
+
+![Roadmap phase i](/images/roadmap.phase1.png "nftvendor/roadmap.phase1.png")
+
+Roadmap phase ii coming soon...
+
 <!--EndFragment-->
