@@ -7,7 +7,7 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
-# **ROADMAP PHASE I**
+#  **PHASE I**
 
 **200 edition of the NFT VENDOR on a mission to offer community service and to create awareness, educate people, promote NFT, Crypto and web-3 projects, and to expose fake projects in web-3 space.**
 
