@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
 title: Signalcalls - The future of trading.
-socialImage: https://i0.wp.com/signalcalls.net/wp-content/uploads/2022/06/cropped-87268766-E660-49E0-B041-4E1888322C63.jpeg?fit=512%2C512&ssl=1
-date: 2022-07-30T19:59:21.407Z
+socialImage: ""
+date: 2022-07-30T22:06:44.712Z
 tags:
   - signalcalls
   - web3
@@ -36,8 +36,6 @@ Let's take a look at some of the features of signalcalls and what makes it so sp
 6. **Live Market Charts:** Signalcalls aim is to keep it users updated in the financial market with the live market charts that covers indices, forex and crypto.
 
 Signalcalls have cool features like you connect with your friends on signalcalls, which will notify them whenever you host a twitter space. What other features do you want if not these?
-
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lxnNDCnHVH-j9OZbIgQx8xzgwUPB11TSZmnUzFmsV0NskgvBKHLjI2AFcqn9g_Gesws&usqp=CAU)
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT34ix56gBy-LPDPVJxuDKI65Abe8hQRMq_wB8oq-3-LGomcvgtdh8xaRm7_YWOlOcuX7s&usqp=CAU)
 
