@@ -9,5 +9,5 @@
   "enableThirdPartyComments": true,
   "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
   "faviconPath": "/images/nftvendor.png",
-  "maxPostsPerPage": 5
+  "maxPostsPerPage": 10
 }
