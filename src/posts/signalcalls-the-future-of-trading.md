@@ -10,7 +10,7 @@ tags:
 ---
 <!--StartFragment-->
 
-> *"Name any platform that will offer you a social platform, free financial academy, fast live breaking news, community building and secured account free from bots and spammers? I will wait".*
+> *Name any platform that will offer you a social platform, free financial academy, fast live breaking news, community building and secured account free from bots and spammers? I will wait.*
 
 <!--StartFragment-->
 
