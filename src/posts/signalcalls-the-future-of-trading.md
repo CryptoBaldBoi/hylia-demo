@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Signalcalls - The future of trading.
 socialImage: https://i0.wp.com/signalcalls.net/wp-content/uploads/2022/06/cropped-87268766-E660-49E0-B041-4E1888322C63.jpeg?fit=512%2C512&ssl=1
-date: 2022-07-30T16:45:30.692Z
+date: 2022-07-30T19:59:21.407Z
 tags:
   - signalcalls
   - web3
